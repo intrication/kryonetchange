@@ -31,7 +31,7 @@ import java.nio.channels.Selector;
 
 import static com.esotericsoftware.minlog.Log.*;
 
-/** @author Nathan Sweet <misc@n4te.com> */
+/** @author Nathan Sweet <misc@n4te.com> checkperso */
 class UdpConnection {
 	InetSocketAddress connectedAddress;
 	DatagramChannel datagramChannel;
